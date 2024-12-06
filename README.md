@@ -1,7 +1,5 @@
 # HTML Basics
 
-## HTML Version 5
-
 ### Heading 1
 This is an example of **Heading 1**.
 
